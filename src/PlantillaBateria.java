@@ -143,6 +143,7 @@ public class PlantillaBateria {
 
     public static void ejercicio1() {
         System.out.println("SIN IMPLEMENTAR");
+        System.out.println("mi loco ");
     }
 
     public static void ejercicio2() {
@@ -179,6 +180,7 @@ public class PlantillaBateria {
 
     public static void ejercicio10() {
         System.out.println("SIN IMPLEMENTAR");
+
     }
 
     // COMPLETAR SI HAY MÁS EJERCICIOS EN LA BATERIA. HAY QUE CREAR EL METODO,
